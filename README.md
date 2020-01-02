@@ -16,7 +16,7 @@ Model-specific formats:
 * TFRecords
 * YOLO
 
-# Convertion matrix
+# Script-based conversion
 
 Links to convertion scripts (reads from left to right):
 
@@ -54,3 +54,7 @@ Links to convertion scripts (reads from left to right):
   [13]: https://github.com/soumenpramanik/Convert-Pascal-VOC-to-COCO/blob/master/convertVOC2COCO.py
 [//]: # (carolinepacheco)
   [14]: https://github.com/carolinepacheco/Convert-COCO-to-PascalVOC
+
+# Tool-based conversion
+
+The labelling tool [CVAT appears to have](https://github.com/opencv/cvat) good support for importing and exporting (thus converting) various annotation formats.
