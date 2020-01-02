@@ -20,7 +20,7 @@ Model-specific formats:
 
 Links to convertion scripts (reads from left to right):
 
-|                | CVAT XML | COCO json | labelme | TFRecords | Pascal VOC | YOLO | 
+|  &#8625;       | CVAT XML | COCO json | labelme | TFRecords | Pascal VOC | YOLO | 
 | -------------- |:--------:|:-------:|:-------:|:---------:|:---:|:----:|
 | **CVAT XML**   | - | [CVAT](2) | ? | [CVAT](1) | [CVAT](3) | [CVAT](4) |
 | **COCO json**  | ? | - | ? | [Tensorflow](11) | [carolinepacheco](14) | [convert2Yolo](7) |
